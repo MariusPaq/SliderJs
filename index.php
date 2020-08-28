@@ -16,7 +16,6 @@
         <div id="precedent" onclick="ChangeSlide(-1)"><</div>
         <div id="suivant" onclick="ChangeSlide(1)">></div>
     </div>
-    <script>setInterval(time,5000);</script>
 </body>
 
 
